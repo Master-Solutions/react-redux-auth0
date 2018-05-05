@@ -1,0 +1,18 @@
+{
+  "name": "react-redux-auth0",
+  "version": "0.0.1",
+  "description": "React/Redux authentication with Auth0",
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "Dmitry Boltrushko",
+  "license": "MIT",
+  "dependencies": {
+    "auth0-js": "^9.4.2",
+    "jwt-decode": "^2.2.0",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "react-redux": "^5.0.7",
+    "redux": "^3.7.2"
+  }
+}
